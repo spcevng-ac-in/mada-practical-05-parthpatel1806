@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextSharing</string>
+    <string name="Share_text">Share Text</string>
+    <string name="share_text">Share text</string>
+</resources>
